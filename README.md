@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## xUtils简介
 * xUtils3 api变化较多, 已转至 https://github.com/wyouflf/xUtils3
 * xUtils 2.x对Android 6.0兼容不是很好, 请尽快升级至xUtils3.
@@ -308,3 +309,6 @@ LogUtils.d("wyouflf");
 # 关于作者
 * Email： <wyouflf@qq.com>, <wyouflf@gmail.com>
 * 有任何建议或者使用中遇到问题都可以给我发邮件, 你也可以加入QQ群：330445659(已满), 275967695, 257323060，技术交流，idea分享 *_*
+=======
+# xUtils
+>>>>>>> 310e540d6b1eb34b93ddd05348bb1e7ea70f8656
