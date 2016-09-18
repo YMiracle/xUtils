@@ -305,10 +305,6 @@ listView.setOnScrollListener(new PauseOnScrollListener(bitmapUtils, false, true,
 LogUtils.d("wyouflf");
 ```
 
-----
-# 关于作者
-* Email： <wyouflf@qq.com>, <wyouflf@gmail.com>
-* 有任何建议或者使用中遇到问题都可以给我发邮件, 你也可以加入QQ群：330445659(已满), 275967695, 257323060，技术交流，idea分享 *_*
-=======
+
 # xUtils
 >>>>>>> 310e540d6b1eb34b93ddd05348bb1e7ea70f8656
